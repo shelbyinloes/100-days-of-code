@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 1, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on getting general layout started for my Widget Workshop app. Fixed the React Router to work with my navigation buttons. Created a logo for the site. Deployed site using Netlify. But most importantly - started somthing to help me to stay on track! 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:**: Excited to finally get a practice plan in progress. Once I get the WW site up and running, I want to implement some older projects into it to add content. I think I have a good handle on React Router, just need to fix the nav bar as well as the bootstrap grid issues. Hope to see even more progress tomorrow.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Where/When I Worked**: Mostly at home mid day, had the day off for NYD. Finished up a couple things at Yard Bar around 5.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Widget Workshop](http://widgetworkshop.netlify.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: January 2, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:**: 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Where/When I Worked**: 
+
+**Link to work:** 
