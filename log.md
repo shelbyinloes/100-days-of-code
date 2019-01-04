@@ -28,6 +28,19 @@
 
 ### Day 3: January 3, 2018
 
+**Today's Progress**:  Today I didn't get a ton of work done, mostly started work on the Calligraphy component. I found a great article that covers an example canvas jsx in react. Not functional yet!
+
+**Thoughts:**:  Needed more uninterupted time today. Going to be a couple days to finish this canvas project!
+
+**Where/When I Worked**: At work, in the break room. I have my computer out at Mardigan's right now, would not be able to do much of todays work right now. 
+
+**Tomorrow's Goals:**: Make a functioning Calligraphy app! (or at least one you can draw on)
+
+**Link to work**: https://widgetworkshop.netlify.com/calligraphy
+
+
+### Day 4: January 4, 2018
+
 **Today's Progress**:  
 
 **Thoughts:**:  
