@@ -41,6 +41,19 @@
 
 ### Day 4: January 4, 2018
 
+**Today's Progress**:  Forgot my computer at Mardigan's so I didn't get as much done today. I worked on two coding challenges in JS. One where I returned how many vowels were in a string, and started work on the stairstep. 
+
+**Thoughts:**:  I need to practice this much more! I'm pretty rusty in JS functions. 
+
+**Where/When I Worked**: At Mardigan's on the couch (pretty distracting place).
+
+**Tomorrow's Goals:**: More canvas! More functions! More everything. Its Saturday so I want to work several hours. 
+
+**Link to work**: [Vowels coding challenge] https://repl.it/@shelbyinloes/vowels
+
+
+### Day 5: January 5, 2018
+
 **Today's Progress**:  
 
 **Thoughts:**:  
