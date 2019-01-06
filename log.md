@@ -54,6 +54,19 @@
 
 ### Day 5: January 5, 2018
 
+**Today's Progress**:  Worked several hours on Canvas but didn't really get anywhere. It's too complex and I need to take a step back to understand event handling, props, state, etc. I found an old video of Renee's so I am going back through and rebuilding Towers of Hanoi. 
+
+**Thoughts:**:  Really struggling with basics of JS React. Need to truly understand state and event handlers. 
+
+**Where/When I Worked**: Mardigan's room while he was at a volleyball tournament. I worked from like 10 or 11 to 2ish. 
+
+**Tomorrow's Goals:**: Finish Towers & study React.
+
+**Link to work**: [Towers of Hanoi] (https://widgetworkshop.netlify.com/towers)
+
+
+### Day 6: January 6, 2018
+
 **Today's Progress**:  
 
 **Thoughts:**:  
