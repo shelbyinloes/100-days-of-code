@@ -67,6 +67,32 @@
 
 ### Day 6: January 6, 2018
 
+**Today's Progress**:  Finished Renee's video on Towers in React and added in a win alert! 
+
+**Thoughts:**:  Getting the hang of writing in react again. State + event handling is very important and I want to make sure I really get this. 
+
+**Where/When I Worked**: Worked at home between 8:15p and 10:00p. I enjoyed most of my Sunday computer-free (:
+
+**Tomorrow's Goals:**: I would like to do a lot of non-coding study time, as well as clean up my Towers Project. 
+
+**Link to work**: [Towers of Hanoi] (https://widgetworkshop.netlify.com/towers)
+
+
+### Day 7: January 7, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**:  
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**:
+
+
+### Day 8: January 8, 2018
+
 **Today's Progress**:  
 
 **Thoughts:**:  
