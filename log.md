@@ -80,15 +80,15 @@
 
 ### Day 7: January 7, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Tried out several styling techniques for the mapped (ring) items, but ran into several dead ends. Did general styling on Towers and Clock componenets. I also added in a popup for game rules and a reset button for Towers.
 
-**Thoughts:**:  
+**Thoughts:**:  Need to learn more about keeping an index with each mapped item (or just looking at content). Small progress is still progress!
 
-**Where/When I Worked**: 
+**Where/When I Worked**: Worked just a little bit this morning at work. Spent time coding during the bachelor too - so not super concentrated work. 
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: New Component? Study time? We will see!
 
-**Link to work**:
+**Link to work**: [Widget Workshop](http://widgetworkshop.netlify.com)
 
 
 ### Day 8: January 8, 2018
