@@ -93,6 +93,19 @@
 
 ### Day 8: January 8, 2018
 
+**Today's Progress**:  Today was a busier day, so mostly worked through some javascript-exercises work! Learned more about some javascript array/string methods and also what an octal literal is. 
+
+**Thoughts:**:  Did not have as much time today as I would have hoped, but I have a lot more time tomorrow. I need to get better with pop, push, shift, and unshift. 
+
+**Where/When I Worked**: At work, in little spouts. 
+
+**Tomorrow's Goals:**: Many many things!
+
+**Link to work**: [repl.it]
+(https://repl.it/@shelbyinloes/flipItAndReverseIt?language=javascript)
+
+### Day 9: January 9, 2018
+
 **Today's Progress**:  
 
 **Thoughts:**:  
