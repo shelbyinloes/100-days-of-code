@@ -106,6 +106,46 @@
 
 ### Day 9: January 9, 2018
 
+**Today's Progress**:  Hodge Podge day! During work I spent a little bit of time on the reverse number JS function. Had a couple hurdles to get over like how to keep the negative sign at the beginning, and how to get rid of the trailing 0's. This evening I added some more projects to my portfolio page, and did a minior styling change to towers of Hanoi. 
+
+**Thoughts:**:  Learned more about scope, and a simpler way to check for leading/trailing 0's by using a while loop and .pop(). 
+
+**Where/When I Worked**: A little bit at work (should have been able to do more) and a little bit at home!
+
+**Tomorrow's Goals:**: Change up my coding time! Going to code before work and gym in the evening. I've felt very distracted once I get home, maybe this will help. Hope to get back into the backend this weekend.
+
+**Link to work**: [repl.it]
+(https://repl.it/@shelbyinloes/flipItAndReverseIt?language=javascript)
+
+
+### Day 10: January 10, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**:  
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**:
+
+
+### Day 11: January 11, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**:  
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**:
+
+
+### Day 12: January 12, 2018
+
 **Today's Progress**:  
 
 **Thoughts:**:  
