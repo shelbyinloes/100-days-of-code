@@ -120,15 +120,15 @@
 
 ### Day 10: January 10, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Learned a little bit more about my to-do app code. Added in a delete button that is attached to the ID instead of the input it was originally in.
 
-**Thoughts:**:  
+**Thoughts:**:  Need to learn more about the code I'm actually writing & be able to discuss it. 
 
-**Where/When I Worked**: 
+**Where/When I Worked**: Summer Moon Coffee from 6:15 - 7:15am. 
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: Whatever my heart desires!
 
-**Link to work**:
+**Link to work**: [MerningToDo]
 
 
 ### Day 11: January 11, 2018
