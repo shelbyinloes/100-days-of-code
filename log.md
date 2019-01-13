@@ -133,15 +133,15 @@
 
 ### Day 11: January 11, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Not a lot of work got done today... I enjoyed my first ATX Sprint Squad workout, lunch at Malibu Poke, and HH w/ Roya at Lazarus. Sometimes it's important to have 'me' days! I spent some time looking at old classwork from ACA today. 
 
-**Thoughts:**:  
+**Thoughts:**:  Need to have a dedicated goal for tomorrow, and time not at Mardigan's place. 
 
-**Where/When I Worked**: 
+**Where/When I Worked**: Mardigan's table while they watched TV.
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: Have something tangible to show!
 
-**Link to work**:
+**Link to work**: [none]
 
 
 ### Day 12: January 12, 2018
