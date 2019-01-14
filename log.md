@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 1, 2018
+### Day 1: January 1, 2018
 
 **Today's Progress**: Worked on getting general layout started for my Widget Workshop app. Fixed the React Router to work with my navigation buttons. Created a logo for the site. Deployed site using Netlify. But most importantly - started somthing to help me to stay on track! 
 
@@ -118,7 +118,21 @@
 (https://repl.it/@shelbyinloes/flipItAndReverseIt?language=javascript)
 
 
-### Day 10: January 10, 2018
+
+### Day 11: January 11, 2018
+
+**Today's Progress**:  Went through a tutorial on making a to-do app! 
+
+**Thoughts:**:  Well I forgot to post about this day and got lost, so dunno. 
+
+**Where/When I Worked**: Starbucks Coffee from 6:15 - 7:15am. 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**: 
+
+
+### Day 11: January 11, 2018
 
 **Today's Progress**:  Learned a little bit more about my to-do app code. Added in a delete button that is attached to the ID instead of the input it was originally in.
 
@@ -131,7 +145,7 @@
 **Link to work**: [MerningToDo]
 
 
-### Day 11: January 11, 2018
+### Day 12: January 12, 2018
 
 **Today's Progress**:  Not a lot of work got done today... I enjoyed my first ATX Sprint Squad workout, lunch at Malibu Poke, and HH w/ Roya at Lazarus. Sometimes it's important to have 'me' days! I spent some time looking at old classwork from ACA today. 
 
@@ -144,7 +158,20 @@
 **Link to work**: [none]
 
 
-### Day 12: January 12, 2018
+### Day 13: January 13, 2018
+
+**Today's Progress**:  Realized I was a day behind on my coding log, guess the weekend was good for my brain! I was pretty preoccupied with fun stuff, workouts, meal prepping, etc to spend the time on my own projects. I instead did some JS30 work on the sliding nav bar.
+
+**Thoughts:**:  This was fun! Would be really cool to implement into a full stack project soon. 
+
+**Where/When I Worked**: At home, from about 9pm to 10:30pm.
+
+**Tomorrow's Goals:**: Code. Code. Code. Maybe a JS function warm up, then getting back to the backend work. 
+
+**Link to work**: [Stripe Follow Nav] (https://github.com/shelbyinloes/JavaScript30/blob/master/26%20-%20Stripe%20Follow%20Along%20Nav/index-START.html)
+
+
+### Day 14: January 14, 2018
 
 **Today's Progress**:  
 
@@ -155,3 +182,17 @@
 **Tomorrow's Goals:**: 
 
 **Link to work**:
+
+
+### Day 15: January 15, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**:  
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**:
+
