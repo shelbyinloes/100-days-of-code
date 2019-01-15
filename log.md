@@ -173,15 +173,15 @@
 
 ### Day 14: January 14, 2018
 
-**Today's Progress**:  
+**Today's Progress**: Great Monday! I was able to smash through at least two JS funciton exercises! I also spent some time going through my Towers of Hanoi project and found the key/index error and it wasn't even where I thought it was messing up. I also figured out a way to use that key to style each individual p tag differently. 
 
-**Thoughts:**:  
+**Thoughts:**: Great job today (to myself!), you rocked it! I also got a chance to encourage another developer who is currently in school. I love that I can connect with so many people and inspire others to keep the code going. 
 
-**Where/When I Worked**: 
+**Where/When I Worked**: A tiny bit in Dr. Sundqvists office, mostly at home during and post Bachelor (about 7:00pm to 9:30pm).
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: Add Widget Workshop to my portfolio page for sure! If I have time I would like to make the styling on Towers prettier. But tomorrow is also my first job placement course, so we will see!
 
-**Link to work**:
+**Link to work**: [repl.it] (https://repl.it/@shelbyinloes/Anagram) (https://repl.it/@shelbyinloes/Palindromes)
 
 
 ### Day 15: January 15, 2018
