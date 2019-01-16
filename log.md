@@ -196,3 +196,28 @@
 
 **Link to work**: [Towers] & [Stripe]
 
+
+### Day 16: January 16, 2018
+
+**Today's Progress**:   
+
+**Thoughts:**:  
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**: 
+
+
+### Day 17: January 17, 2018
+
+**Today's Progress**:   
+
+**Thoughts:**:  
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**: 
