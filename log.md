@@ -186,13 +186,13 @@
 
 ### Day 15: January 15, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Messed around a little bit on my towers of hanoi project trying to flip around the stacks, not tons of progress made thus far. I got rid of the numbers in the stacks. Also messed around with the gradient background on my Stripe Follow background, but didn't get it just right yet. Tonight is my first ACA job placement class, so not a lot of time to do anything else today. 
 
-**Thoughts:**:  
+**Thoughts:**:  Attempts still count as progress! I have a better idea of where to go for tomorrow. 
 
-**Where/When I Worked**: 
+**Where/When I Worked**: At work during lunch mostly. 
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: JOB SEARCH DAY! And LinkedIn, and Portfolio. 
 
-**Link to work**:
+**Link to work**: [Towers] & [Stripe]
 
