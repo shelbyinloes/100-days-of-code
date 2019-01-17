@@ -199,15 +199,15 @@
 
 ### Day 16: January 16, 2018
 
-**Today's Progress**:   
+**Today's Progress**: So. Much. Accomplished! I woke up this morning and had a phone call with a recruiter at 7am. I then finished an hour long technical test for that role. I worked on many projects development wise. I decided I didn't like how my Widget Workshop looked so I changed it up to have a central transparent background title + a full page background image. I think it will look much cleaner in the end. I also added my weather app to it! Then I worked a good bit on changing up my README's so that it is easier for other people to see what my projects are about. I updated my portfolio, weather app, and widget workshop. I did some job applications as well. My evening was spent whiteboarding an app I am going to build! 
 
-**Thoughts:**:  
+**Thoughts:**:  I need days like this more often. It was no chore to sit at my computer all day. I did take a gym break and a bath/relaxation break, but most of my day was spent working away! I am very nervous to start my own app (and API) but I need to push myself. 
 
-**Where/When I Worked**: 
+**Where/When I Worked**: At home! Did't finish up my day until 7:30pm.
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: Start API? Get Native up & running? 
 
-**Link to work**: 
+**Link to work**: [github] (https://github.com/shelbyinloes)
 
 
 ### Day 17: January 17, 2018
