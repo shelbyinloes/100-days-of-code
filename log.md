@@ -212,6 +212,19 @@
 
 ### Day 17: January 17, 2018
 
+**Today's Progress**: Started the Udemy React Native course again! Had some struggles installing the Expo CLI, but I think I got it all working now!
+
+**Thoughts:**:  Wish I would have had more time today to get it started. 
+
+**Where/When I Worked**: At work
+
+**Tomorrow's Goals:**: Get something tangible up w/ Native
+
+**Link to work**: [udemy]
+
+
+### Day 18: January 18, 2018
+
 **Today's Progress**:   
 
 **Thoughts:**:  
