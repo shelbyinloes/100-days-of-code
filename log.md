@@ -225,6 +225,19 @@
 
 ### Day 18: January 18, 2018
 
+**Today's Progress**: Not as much actual coding as I would have liked. I continued on with the React Native course and got most of my environments set up. Taking a long time for Android Studio to download so I messed with some nav styling in my Widget Workshop app. 
+
+**Thoughts:**: React Native will be fun once I get it all set up! I also am having some errors on my react-bootstrap in the WW so I will need to work on those later. 
+
+**Where/When I Worked**: Alise's apartment - babysitting night!
+
+**Tomorrow's Goals:**: Finish Android Studio set up.
+
+**Link to work**: [WidgetWorkshop]
+
+
+### Day 19: January 19, 2018
+
 **Today's Progress**:   
 
 **Thoughts:**:  
