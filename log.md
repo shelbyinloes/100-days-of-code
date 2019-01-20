@@ -238,9 +238,22 @@
 
 ### Day 19: January 19, 2018
 
-**Today's Progress**:   
+**Today's Progress**:  Not much on the native side of things. Got to practice a couple JS functions.
 
-**Thoughts:**:  
+**Thoughts:**: Android Studio is the worst and so is the wifi here. 
+
+**Where/When I Worked**: Mardigan's place
+
+**Tomorrow's Goals:**: Native.
+
+**Link to work**: [repl.it] (https://repl.it/@shelbyinloes/SockMerchant)
+
+
+### Day 20: January 20, 2018
+
+**Today's Progress**: 
+
+**Thoughts:**:
 
 **Where/When I Worked**: 
 
