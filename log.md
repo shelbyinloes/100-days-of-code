@@ -251,6 +251,32 @@
 
 ### Day 20: January 20, 2018
 
+**Today's Progress**: Watched a lot of videos on interview prep & react! I also dove back into some Widget Workshop stuff to figure out the warnings I had with the Dropdown menu. I was able to fix the 'id' error as well as the nested anchor tags. I had to install react-router-bootstrap instead of using the react-router-dom. 
+
+**Thoughts:**: Hoping that all the videos I watched refreshed my brain enough for the interviews coming up!
+
+**Where/When I Worked**: At home. Watched videos while meal prepping and coded at my desk after.
+
+**Tomorrow's Goals:**: Study for interview!
+
+**Link to work**: [WidgetWorkshop]
+
+
+### Day 21: January 21, 2018
+
+**Today's Progress**: 
+
+**Thoughts:**:
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**: 
+
+
+### Day 22: January 22, 2018
+
 **Today's Progress**: 
 
 **Thoughts:**:
