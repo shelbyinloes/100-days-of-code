@@ -264,15 +264,15 @@
 
 ### Day 21: January 21, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Still makin' it! Worked on my weather app by adding a celcius/fahrenheit button that actually changes the API call. Still figuring out how to get the radio buttons to only change the 'f' and 'c' on submit. Also used some ComponentWillUnmount for a couple fixes, still need to figure it out on my clock app. 
 
-**Thoughts:**:
+**Thoughts:**: Learnin'. Want to practice more API/fetch stuff.
 
-**Where/When I Worked**: 
+**Where/When I Worked**: At home during the bachelor. 
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: Interview! Gonna have to do some late night studying/coding.
 
-**Link to work**: 
+**Link to work**: [WidgetWorkshop]
 
 
 ### Day 22: January 22, 2018
