@@ -277,6 +277,32 @@
 
 ### Day 22: January 22, 2018
 
+**Today's Progress**: Group coding interview practice @ ACA and small work/research on Widgets.
+
+**Thoughts:**: Today was a crazy busy day. The algorithims we did in class were very easy though (:
+
+**Where/When I Worked**: At ACA + a little at work.
+
+**Tomorrow's Goals:**: Get more tangible coding in.
+
+**Link to work**: [none]
+
+
+### Day 23: January 23, 2018
+
+**Today's Progress**: Started off the day without a real plan, so I kind of jumped around a little bit. I had my computer at work but forgot the charger so that put a hinderence in things. Tonight I was able to get started on a timer component for my app. I started off by following a tutorial but then realized I need to do it on my own!
+
+**Thoughts:**: I need to be better about setting daily goals. 
+
+**Where/When I Worked**: At work a little bit (Kyle), but mostly at home between 7-9.
+
+**Tomorrow's Goals:**: Set a plan of action and follow it. I need to review my technical assessment and work more on my timer. (Maybeeee Native?)
+
+**Link to work**: [WidgetWorkshop]
+
+
+### Day 24: January 24, 2018
+
 **Today's Progress**: 
 
 **Thoughts:**:
