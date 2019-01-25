@@ -303,6 +303,20 @@
 
 ### Day 24: January 24, 2018
 
+**Today's Progress**: Great progress today! Got a working countdown timer. Figuring out getting the future date was the biggest challenge. I also had an interview today so I spent a lot of my morning finishing my technical assessment (turned out to be great, they asked about it!). Today is also an ACA class day. 
+
+**Thoughts:**: Feeling much better today about my progress. Excited to continue working on my app.
+
+**Where/When I Worked**: At work, we had a slow day. 
+
+**Tomorrow's Goals:**: Continue to work on my countdown app! 
+
+**Link to work**: [WidgetWorkshop]
+
+
+
+### Day 25: January 25, 2018
+
 **Today's Progress**: 
 
 **Thoughts:**:
