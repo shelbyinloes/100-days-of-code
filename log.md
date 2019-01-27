@@ -317,9 +317,36 @@
 
 ### Day 25: January 25, 2018
 
+**Today's Progress**: Break day! I had an early morning workout, very busy day at work, and Mardigan's party. Really enjoyed my day and still made the most of it even though I didn't code. 
+
+**Thoughts:**: Get back on the grind!
+
+**Where/When I Worked**: n/a
+
+**Tomorrow's Goals:**: More work on countdown timer (inputs).
+
+**Link to work**: n/a
+
+
+### Day 26: January 26, 2018
+
 **Today's Progress**: 
 
-**Thoughts:**:
+**Thoughts:**: 
+
+**Where/When I Worked**: 
+
+**Tomorrow's Goals:**: 
+
+**Link to work**: 
+
+
+
+### Day 27: January 27, 2018
+
+**Today's Progress**: 
+
+**Thoughts:**: 
 
 **Where/When I Worked**: 
 
