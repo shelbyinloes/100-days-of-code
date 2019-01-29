@@ -330,19 +330,44 @@
 
 ### Day 26: January 26, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Lots of work on my countdown timer today! I was able to get the inputs working and linked to the local state. 
 
-**Thoughts:**: 
+**Thoughts:**: I like working with dates and times! Using JS methods that are built in can be fun if they are useful.
 
-**Where/When I Worked**: 
+**Where/When I Worked**: At the leasing office in Mardigan's apartment. 
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: Continue work on countdown timer (edge cases, bugs, etc)
 
-**Link to work**: 
-
+**Link to work**: [WidgetWorkshop]
 
 
 ### Day 27: January 27, 2018
+
+**Today's Progress**: I got my countdown timer working great! It now gives an error if it's a previous year, or invalid month/date. I still have some other edge cases to work but I am overall happy with my work. The styling also looks great.
+
+**Thoughts:**: Great job today!
+
+**Where/When I Worked**: Mardigan's couch + table mostly. 
+
+**Tomorrow's Goals:**: Interview prep.
+
+**Link to work**: [WidgetWorkshop]
+
+
+### Day 28: January 28, 2018
+
+**Today's Progress**: Lots of little things. I started off my day (while waiting for pop a lock to jumpstart my car) by adding some pseudo classes to my Countdown timer for styling reasons. In the morning I started a Udemy class on Salesforce/Apex and mostly learned about the primitive data types. At night (although distracted) I did a JavaScript30 'Whack-A-Mole' tutorial. 
+
+**Thoughts:**: Wish I had more time tomorrow for interview prep. Overall did good with the time I had today.
+
+**Where/When I Worked**: Kitchen, work, and at home. 
+
+**Tomorrow's Goals:**: Get through the networking event!
+
+**Link to work**: [Udemy, JS30, and WidgetWorkshop]
+
+
+### Day 29: January 29, 2018
 
 **Today's Progress**: 
 
