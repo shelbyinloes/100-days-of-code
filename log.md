@@ -369,12 +369,54 @@
 
 ### Day 29: January 29, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Study practice mostly. I have 3 interviews tomorrow. 
 
-**Thoughts:**: 
+**Thoughts:**: Good luck on the interviews!
 
-**Where/When I Worked**: 
+**Where/When I Worked**: At work a little bit, some at home before bed. Today was the day my car got broken into so I didn't have much time/will. Class was at a networking event. 
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: Rock the interviews!
 
-**Link to work**: 
+**Link to work**: [none]
+
+
+
+### Day 30: January 30, 2018
+
+**Today's Progress**: INTERVEIW DAY! Not any coding, but lots of studying for SQL, for loops, and Salesforce. 
+
+**Thoughts:**: Hope interview's go well! They are all not in my current tech stacks.
+
+**Where/When I Worked**: At home mostly, some at Capital Factory.
+
+**Tomorrow's Goals:**: Relax a bit, today was a doosey.
+
+**Link to work**: [none]
+
+
+
+### Day 31: January 31, 2018
+
+**Today's Progress**: Mostly worked on coding challenges! We did a lot of whiteboarding in class today. One was on the birthday candle (tallest candle) challenge, and the other was on a sort without using built in JS methods.
+
+**Thoughts:**: I need to practice my bubble sorting. 
+
+**Where/When I Worked**: In class mostly.
+
+**Tomorrow's Goals:**: Find a project!
+
+**Link to work**: [https://repl.it/@shelbyinloes/FabulousInfamousControlpanel]
+
+
+
+### Day 32: February 1, 2018
+
+**Today's Progress**: Today I worked on getting a new React App set up so I can do some front-end work on a mock up restaurant site. 
+
+**Thoughts:**: Need to get back on some real projects!
+
+**Where/When I Worked**: At home, I had a 1/2 day at work. 
+
+**Tomorrow's Goals:**: Get a basic set up of componenents on my site. 
+
+**Link to work**: [https://github.com/shelbyinloes/mochi-austin]
