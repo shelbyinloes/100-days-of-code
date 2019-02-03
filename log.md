@@ -420,3 +420,16 @@
 **Tomorrow's Goals:**: Get a basic set up of componenents on my site. 
 
 **Link to work**: [https://github.com/shelbyinloes/mochi-austin]
+
+
+### Day 33: February 2, 2018
+
+**Today's Progress**: Lots of front-end work! I got a good head start on my Mochi Austin project. I got the header finished and added in a carousel from bootstrap.
+
+**Thoughts:**: Fun time working on the HTML, CSS, and Bootstrap. 
+
+**Where/When I Worked**: Mardigan's apartment while he was playing volleyball. 
+
+**Tomorrow's Goals:**: More work on Mochi!
+
+**Link to work**: [https://github.com/shelbyinloes/mochi-austin]
