@@ -433,3 +433,42 @@
 **Tomorrow's Goals:**: More work on Mochi!
 
 **Link to work**: [https://github.com/shelbyinloes/mochi-austin]
+
+
+### Day 34: February 3, 2018
+
+**Today's Progress**: Mochi Mochi! Made the carousel images fit and work much better with the page. Also started some work on the footer component. 
+
+**Thoughts:**: Let's get back into the JavaScript (okay, I really just like both...)
+
+**Where/When I Worked**: At Mardigans during SuperBowl.
+
+**Tomorrow's Goals:**: Let's see where the day takes us. 
+
+**Link to work**: [https://github.com/shelbyinloes/mochi-austin]
+
+
+### Day 35: February 4, 2018
+
+**Today's Progress**: I had a job interview today at 12, then went into work for the PM - so not much coding done during the day. After work, I spent my time on my Udemy Apex course! Got through while loops, do while loops, conditionals, and regular functions.
+
+**Thoughts:**: This is very similar to JS! I really see why people say 'once you learn your first language, the others will come easily'. 
+
+**Where/When I Worked**: At home in the kitchen and at my desk.
+
+**Tomorrow's Goals:**: More Apex?
+
+**Link to work**: [developer.salesforce.com]
+
+
+### Day 36: February 5, 2018
+
+**Today's Progress**: 
+
+**Thoughts:**: 
+
+**Where/When I Worked**:  
+
+**Tomorrow's Goals:**: 
+
+**Link to work**:
