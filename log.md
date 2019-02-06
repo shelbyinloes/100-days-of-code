@@ -461,14 +461,29 @@
 **Link to work**: [developer.salesforce.com]
 
 
+
 ### Day 36: February 5, 2018
 
-**Today's Progress**: 
+**Today's Progress**: Mostly code challenges! We did some more coding challenges in class today. I also did an hour or so on Udemy for Apex. Learned for each loops. 
 
-**Thoughts:**: 
+**Thoughts:**: Ready to start tackling Salesforce!
 
-**Where/When I Worked**:  
+**Where/When I Worked**:  At work and in class (last class).
 
-**Tomorrow's Goals:**: 
+**Tomorrow's Goals:**: More coding challenges and mochi work. 
 
-**Link to work**:
+**Link to work**: [https://repl.it/@shelbyinloes/roundGrades]
+
+
+
+### Day 37: February 6, 2018
+
+**Today's Progress**: More coding challenges on Hacker Rank. Got my second star! I also worked a little bit more on the footer for Mochi. 
+
+**Thoughts:**: Challenging, but fun.
+
+**Where/When I Worked**:  At Mardigan's place. Had the day off. 
+
+**Tomorrow's Goals:**: Salesforce? Apex? Mochi? Whatever I can get done!
+
+**Link to work**: [https://repl.it/@shelbyinloes/advertisingReach]
