@@ -487,3 +487,85 @@
 **Tomorrow's Goals:**: Salesforce? Apex? Mochi? Whatever I can get done!
 
 **Link to work**: [https://repl.it/@shelbyinloes/advertisingReach]
+
+
+
+### Day 38: February 7, 2018
+
+**Today's Progress**: Apples and Oranges hacker rank + work on my Mochi app! Recolored the header + more work on footer style. 
+
+**Thoughts:**: I signed my offer letter today (: 
+
+**Where/When I Worked**:  At work mostly, we had a slow day. 
+
+**Tomorrow's Goals:**: Another hacker rank, salesforce stuff. 
+
+**Link to work**: [https://repl.it/@shelbyinloes/applesAndOranges]
+
+
+
+### Day 39: February 8, 2018
+
+**Today's Progress**:  Finished the Kangaroo hacker rank + 
+
+**Thoughts:**: Coding has really become a great habit of mine! Time has been on my side, but I feel like I have natural things I want to accomplish and it feels good. Can't wait to dive more into Salesforce.
+
+**Where/When I Worked**:  Mostly at work, some at Mardigan's before visitors came into town. 
+
+**Tomorrow's Goals:**: More mochi + salesforce. 
+
+**Link to work**: [https://repl.it/@shelbyinloes/advertisingReach]
+
+
+### Day 40: February 9, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**: 
+
+**Where/When I Worked**:   
+
+**Tomorrow's Goals:**:  
+
+**Link to work**: 
+
+
+### Day 41: February 10, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**: 
+
+**Where/When I Worked**:   
+
+**Tomorrow's Goals:**:  
+
+**Link to work**: 
+
+
+
+### Day 42: February 11, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**: 
+
+**Where/When I Worked**:   
+
+**Tomorrow's Goals:**:  
+
+**Link to work**: 
+
+
+
+### Day 43: February 12, 2018
+
+**Today's Progress**:  
+
+**Thoughts:**: 
+
+**Where/When I Worked**:   
+
+**Tomorrow's Goals:**:  
+
+**Link to work**: 
