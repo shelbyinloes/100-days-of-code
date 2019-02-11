@@ -506,7 +506,7 @@
 
 ### Day 39: February 8, 2018
 
-**Today's Progress**:  Finished the Kangaroo hacker rank + 
+**Today's Progress**:  Finished the Kangaroo hacker rank.
 
 **Thoughts:**: Coding has really become a great habit of mine! Time has been on my side, but I feel like I have natural things I want to accomplish and it feels good. Can't wait to dive more into Salesforce.
 
@@ -519,42 +519,42 @@
 
 ### Day 40: February 9, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Not a whole lot got done today, but I did work on Mochi a little bit while I was at work on Saturday.
 
-**Thoughts:**: 
+**Thoughts:**: Exctied to be able to tell people I am moving on to a new job!
 
-**Where/When I Worked**:   
+**Where/When I Worked**:  At work (Saturday @ Riverside) and a little bit at Mardigan's. 
 
-**Tomorrow's Goals:**:  
+**Tomorrow's Goals:**:  Mostly salesforce, but whatever else I get the inclination to do!
 
-**Link to work**: 
+**Link to work**: [https://trailhead.salesforce.com/en/me/0052J000008bfuMQAQ]
 
 
 ### Day 41: February 10, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Mostly work on Trailhead in Salesforce. Finished up several modules and began reading info on the API's. Finished up the Trailhead Playground Managment module. I did a little work on Mochi (react-reveal) and also finished the Hurdle Race question from Hacker Rank. 
 
-**Thoughts:**: 
+**Thoughts:**: Was a bit destracted today. I actually had the entire day to myself. While I did get to unwind from the week a little bit - I didn't set apart a specific coding time so I found myself on my phone a lot. 
 
-**Where/When I Worked**:   
+**Where/When I Worked**:  Mardigan's couch (no one home)
 
-**Tomorrow's Goals:**:  
+**Tomorrow's Goals:**:  More mochi!
 
-**Link to work**: 
+**Link to work**: [https://mochi-austin.netlify.com/]
 
 
 
 ### Day 42: February 11, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Lots of Mochi work! I finsished up the content section (ingredients + drinks) and changed up the scroll in animations. 
 
-**Thoughts:**: 
+**Thoughts:**: It's really starting to come along! It has been nice working on several things at once (Trailhead, HackerRank, and Mochi) without feeling overwhelmed. 
 
-**Where/When I Worked**:   
+**Where/When I Worked**: Mochi at work (360 office), and some at Mardigan's. 
 
-**Tomorrow's Goals:**:  
+**Tomorrow's Goals:**: Trailhead for days. 
 
-**Link to work**: 
+**Link to work**: [https://mochi-austin.netlify.com/]
 
 
 
