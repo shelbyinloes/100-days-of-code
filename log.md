@@ -560,12 +560,26 @@
 
 ### Day 43: February 12, 2018
 
-**Today's Progress**:  
+**Today's Progress**:  Okay I didn't really get much done today... I worked on a hacker rank question or two I belive. Or just my repl.it questions. 
 
-**Thoughts:**: 
+**Thoughts:**: Still really liking these coding challenges!
 
-**Where/When I Worked**:   
+**Where/When I Worked**:  In Alfie's office during work.
 
-**Tomorrow's Goals:**:  
+**Tomorrow's Goals:**:  Work through trailhead.
 
-**Link to work**: 
+**Link to work**: [https://repl.it/student/submissions/2674475] [https://repl.it/student/submissions/4621642]
+
+
+
+### Day 44: February 13, 2018
+
+**Today's Progress**:  Salesforce! Trailhead! Mostly working through the REST API and SOAP API modules.
+
+**Thoughts:**: This stuff looks familiar! I hope I retained more than I thought I did in the advanced class. 
+
+**Where/When I Worked**:  At Mardigans while he was at volleyball
+
+**Tomorrow's Goals:**:  More salesforce + Mochi.
+
+**Link to work**: [https://trailhead.salesforce.com/content/learn/modules/api_basics/api_basics_rest]
